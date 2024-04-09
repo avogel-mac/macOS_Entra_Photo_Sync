@@ -19,7 +19,7 @@
 
    - In the Overview section, navigate to Client Credentials > Add a certificate or secret.
    - Generate a new client secret with the following details:
-     - Description: MacPhotoDownload
+     - Description: choose a name that fits. e.g. macOS Photo Sync
      - Expiry: Choose 3, 12, 18, or 24 months.
    - Save the secret value securely. Note that it cannot be retrieved after creation.
 
@@ -28,7 +28,7 @@
 4. **Retrieve Application Details**
 
    - Go back to the Azure Portal and navigate to Azure Active Directory > App Registrations.
-   - Select Mac Profile Photo Download to access its details.
+   - Select youtApplokation to access its details.
    - Note down the following information from the overview page:
      - Application (client) ID
      - Directory (tenant) ID
