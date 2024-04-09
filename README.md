@@ -1,0 +1,1 @@
+# macOS_Entra_Photo_Sync
